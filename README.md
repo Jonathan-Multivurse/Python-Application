@@ -1,1 +1,1 @@
-# Python-FastAPI-Strawberry App
+# Python-FastAPI-Strawberry
