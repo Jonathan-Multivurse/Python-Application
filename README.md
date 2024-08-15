@@ -1,1 +1,1 @@
-# Python-FastAPI-Strawberry-Project-AI
+# Python-FastAPI-Strawberry-Project
